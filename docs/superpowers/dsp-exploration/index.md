@@ -31,7 +31,7 @@ Every artifact must include:
 
 | Artifact ID | Type | Version | Status | Owner | File |
 | --- | --- | --- | --- | --- | --- |
-| DSP-BRIEF-001 | brief | v1 | draft | unassigned | [brief-v1-25-05-2026-dsp-module-discovery.md](./briefs/brief-v1-25-05-2026-dsp-module-discovery.md) |
+| DSP-BRIEF-001 | brief | v1 | draft | unassigned | [brief-v1-25-05-2026-dsp-global-brief.md](./briefs/brief-v1-25-05-2026-dsp-global-brief.md) |
 | DSP-SITEMAP-001 | sitemap | v1 | draft | unassigned | [sitemap-v1-25-05-2026-dsp-module-information-architecture.md](./sitemaps/sitemap-v1-25-05-2026-dsp-module-information-architecture.md) |
 | DSP-USERFLOW-001 | userflow | v1 | draft | unassigned | [userflow-v1-25-05-2026-dsp-onboarding-and-iteration.md](./userflows/userflow-v1-25-05-2026-dsp-onboarding-and-iteration.md) |
 | DSP-USECASE-EDGECASE-001 | usecase-edgecase | v1 | draft | unassigned | [usecase-edgecase-v1-25-05-2026-dsp-core-scenarios.md](./usecases-edgecases/usecase-edgecase-v1-25-05-2026-dsp-core-scenarios.md) |

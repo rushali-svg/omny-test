@@ -1,0 +1,243 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e6]: H
+      - navigation [ref=e7]:
+        - button "Home" [ref=e8] [cursor=pointer]:
+          - img [ref=e9]
+        - button "Catalog" [ref=e12] [cursor=pointer]:
+          - img [ref=e13]
+        - button "Reporting" [ref=e16] [cursor=pointer]:
+          - img [ref=e17]
+        - button "Settings" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+        - button "Media" [ref=e22] [cursor=pointer]:
+          - img [ref=e23]
+        - button "Help" [ref=e26] [cursor=pointer]:
+          - img [ref=e27]
+      - button "o" [ref=e31] [cursor=pointer]
+    - generic [ref=e32]:
+      - banner [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - generic [ref=e36]:
+              - generic [ref=e37]: Advertising
+              - generic [ref=e38]: /
+              - generic [ref=e39]: DSP reporting
+            - generic [ref=e40]:
+              - button "Omny Retail EU 4 v" [ref=e41] [cursor=pointer]:
+                - img [ref=e43]
+                - generic [ref=e46]: Omny Retail EU
+                - generic [ref=e47]: "4"
+                - generic [ref=e48]: v
+              - button "amazon.fr 1 v" [ref=e49] [cursor=pointer]:
+                - img [ref=e51]
+                - generic [ref=e53]: amazon.fr
+                - generic [ref=e54]: "1"
+                - generic [ref=e55]: v
+              - button "All products v" [ref=e56] [cursor=pointer]:
+                - img [ref=e58]
+                - generic [ref=e61]: All products
+                - generic [ref=e62]: v
+          - generic [ref=e63]:
+            - generic [ref=e64]:
+              - generic [ref=e65]: EUR
+              - generic [ref=e66]: v
+            - button "i" [ref=e67] [cursor=pointer]
+        - generic [ref=e68]:
+          - link "Overview" [ref=e69] [cursor=pointer]:
+            - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+          - link "conversion" [ref=e71] [cursor=pointer]:
+            - /url: /dsp-reporting/conversion?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+          - link "consideration" [ref=e72] [cursor=pointer]:
+            - /url: /dsp-reporting/consideration?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+          - link "awareness" [ref=e73] [cursor=pointer]:
+            - /url: /dsp-reporting/awareness?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+          - link "loyalty" [ref=e74] [cursor=pointer]:
+            - /url: /dsp-reporting/loyalty?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+      - main [ref=e75]:
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]:
+                - paragraph [ref=e81]: DSP sales
+                - paragraph [ref=e82]: €284.6k
+              - generic [ref=e83]: 3 phases on track
+            - paragraph [ref=e84]: All supported phases
+            - generic [ref=e85]:
+              - paragraph [ref=e86]: Previous period +8.4%
+              - paragraph [ref=e87]: Same period LY +14.1%
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - generic [ref=e90]:
+                - paragraph [ref=e91]: Target attainment
+                - paragraph [ref=e92]: 76%
+              - generic [ref=e93]: Awareness pending
+            - paragraph [ref=e94]: Phases meeting KPI target
+            - generic [ref=e95]:
+              - paragraph [ref=e96]: Last 7 days +9 pts
+              - paragraph [ref=e97]: Quarter view +4 pts
+          - generic [ref=e98]:
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: Assisted contribution
+                - paragraph [ref=e102]: 24%
+              - generic [ref=e103]: Healthy mix
+            - paragraph [ref=e104]: Share of revenue influenced
+            - generic [ref=e105]:
+              - paragraph [ref=e106]: Previous period +2.1 pts
+              - paragraph [ref=e107]: Same period LY +5.0 pts
+          - generic [ref=e108]:
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - paragraph [ref=e111]: Media efficiency
+                - paragraph [ref=e112]: "2.9"
+              - generic [ref=e113]: Watch Consideration
+            - paragraph [ref=e114]: Weighted ROAS / DPVR read
+            - generic [ref=e115]:
+              - paragraph [ref=e116]: Previous period -0.2
+              - paragraph [ref=e117]: Same period LY +0.4
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - generic [ref=e121]:
+              - generic [ref=e122]:
+                - heading "Evolution" [level=2] [ref=e123]
+                - button "↓" [ref=e124] [cursor=pointer]
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - generic [ref=e127]: WTD
+                  - generic [ref=e128]: v
+                - generic [ref=e129]:
+                  - link "vs same period last week" [ref=e130] [cursor=pointer]:
+                    - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+                  - link "vs previous period" [ref=e131] [cursor=pointer]:
+                    - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-month&timeframe=last-7-days
+                  - link "vs same period last year" [ref=e132] [cursor=pointer]:
+                    - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-year&timeframe=last-7-days
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - link "Last 7 days" [ref=e135] [cursor=pointer]:
+                  - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-week&timeframe=last-7-days
+                - link "Last 30 days" [ref=e136] [cursor=pointer]:
+                  - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-week&timeframe=last-30-days
+                - link "Quarter view" [ref=e137] [cursor=pointer]:
+                  - /url: /dsp-reporting/overview?period=WTD&comparison=vs-last-week&timeframe=quarter-view
+              - generic [ref=e138]: Objective hover is enabled in this view
+          - table [ref=e141]:
+            - rowgroup [ref=e142]:
+              - row "Objective Efficiency Business result Delivery Interpretation" [ref=e143]:
+                - columnheader "Objective" [ref=e144]
+                - columnheader "Efficiency" [ref=e145]
+                - columnheader "Business result" [ref=e146]
+                - columnheader "Delivery" [ref=e147]
+                - columnheader "Interpretation" [ref=e148]
+              - row "Funnel phase i Objective i Optimization KPI i Business result i Delivery quality i Next read i" [ref=e149]:
+                - columnheader "Funnel phase i" [ref=e150]:
+                  - generic [ref=e151]:
+                    - text: Funnel phase
+                    - generic [ref=e153]: i
+                - columnheader "Objective i" [ref=e154]:
+                  - generic [ref=e155]:
+                    - text: Objective
+                    - generic [ref=e157]: i
+                - columnheader "Optimization KPI i" [ref=e158]:
+                  - generic [ref=e159]:
+                    - text: Optimization KPI
+                    - generic [ref=e161]: i
+                - columnheader "Business result i" [ref=e162]:
+                  - generic [ref=e163]:
+                    - text: Business result
+                    - generic [ref=e165]: i
+                - columnheader "Delivery quality i" [ref=e166]:
+                  - generic [ref=e167]:
+                    - text: Delivery quality
+                    - generic [ref=e169]: i
+                - columnheader "Next read i" [ref=e170]:
+                  - generic [ref=e171]:
+                    - text: Next read
+                    - generic [ref=e173]: i
+            - rowgroup [ref=e174]:
+              - row "Conversion Deep dive available Acquire new customers NTB rate 42% 3.2 24% % assisted sales retained Healthy Validate ATC and visibility Open Conversion" [ref=e175]:
+                - cell "Conversion Deep dive available" [ref=e176]:
+                  - generic [ref=e177]:
+                    - paragraph [ref=e178]: Conversion
+                    - paragraph [ref=e179]: Deep dive available
+                - cell "Acquire new customers NTB rate 42%" [ref=e180]:
+                  - generic [ref=e181]:
+                    - generic [ref=e182]: Acquire new customers
+                    - generic [ref=e183]: NTB rate 42%
+                - cell "3.2" [ref=e184]:
+                  - generic [ref=e186]: "3.2"
+                - cell "24% % assisted sales retained" [ref=e190]:
+                  - generic [ref=e192]:
+                    - generic [ref=e193]: 24%
+                    - generic [ref=e194]: "% assisted sales retained"
+                - cell "Healthy" [ref=e197]
+                - cell "Validate ATC and visibility Open Conversion" [ref=e198]:
+                  - generic [ref=e199]:
+                    - paragraph [ref=e200]: Validate ATC and visibility
+                    - paragraph [ref=e201]: Open Conversion
+              - row "Consideration Deep dive available Increase product detail exploration DPVR focus 1.8 62.4k visits -6% Mixed Review grouped signals and VTR Open Consideration" [ref=e202]:
+                - cell "Consideration Deep dive available" [ref=e203]:
+                  - generic [ref=e204]:
+                    - paragraph [ref=e205]: Consideration
+                    - paragraph [ref=e206]: Deep dive available
+                - cell "Increase product detail exploration DPVR focus" [ref=e207]:
+                  - generic [ref=e208]:
+                    - generic [ref=e209]: Increase product detail exploration
+                    - generic [ref=e210]: DPVR focus
+                - cell "1.8" [ref=e211]:
+                  - generic [ref=e213]: "1.8"
+                - cell "62.4k visits -6%" [ref=e217]:
+                  - generic [ref=e219]:
+                    - generic [ref=e220]: 62.4k visits
+                    - generic [ref=e221]: "-6%"
+                - cell "Mixed" [ref=e224]
+                - cell "Review grouped signals and VTR Open Consideration" [ref=e225]:
+                  - generic [ref=e226]:
+                    - paragraph [ref=e227]: Review grouped signals and VTR
+                    - paragraph [ref=e228]: Open Consideration
+              - row "Loyalty Deep dive available Drive repurchase Repeat order rate 31% 2.7 27% Repeat influenced revenue Stable Compare repeat vs new customer mix Open Loyalty" [ref=e229]:
+                - cell "Loyalty Deep dive available" [ref=e230]:
+                  - generic [ref=e231]:
+                    - paragraph [ref=e232]: Loyalty
+                    - paragraph [ref=e233]: Deep dive available
+                - cell "Drive repurchase Repeat order rate 31%" [ref=e234]:
+                  - generic [ref=e235]:
+                    - generic [ref=e236]: Drive repurchase
+                    - generic [ref=e237]: Repeat order rate 31%
+                - cell "2.7" [ref=e238]:
+                  - generic [ref=e240]: "2.7"
+                - cell "27% Repeat influenced revenue" [ref=e244]:
+                  - generic [ref=e246]:
+                    - generic [ref=e247]: 27%
+                    - generic [ref=e248]: Repeat influenced revenue
+                - cell "Stable" [ref=e251]
+                - cell "Compare repeat vs new customer mix Open Loyalty" [ref=e252]:
+                  - generic [ref=e253]:
+                    - paragraph [ref=e254]: Compare repeat vs new customer mix
+                    - paragraph [ref=e255]: Open Loyalty
+              - row "Awareness Shell only Audience reach Pending data Pending audience data No KPI surface yet Blocked Awaiting source availability Unavailable Stay in shell state Dependency noted" [ref=e256]:
+                - cell "Awareness Shell only" [ref=e257]:
+                  - generic [ref=e258]:
+                    - paragraph [ref=e259]: Awareness
+                    - paragraph [ref=e260]: Shell only
+                - cell "Audience reach Pending data" [ref=e261]:
+                  - generic [ref=e262]:
+                    - generic [ref=e263]: Audience reach
+                    - generic [ref=e264]: Pending data
+                - cell "Pending audience data No KPI surface yet" [ref=e265]:
+                  - generic [ref=e266]:
+                    - paragraph [ref=e267]: Pending audience data
+                    - paragraph [ref=e268]: No KPI surface yet
+                - cell "Blocked Awaiting source availability" [ref=e269]:
+                  - generic [ref=e270]:
+                    - paragraph [ref=e271]: Blocked
+                    - paragraph [ref=e272]: Awaiting source availability
+                - cell "Unavailable" [ref=e273]
+                - cell "Stay in shell state Dependency noted" [ref=e274]:
+                  - generic [ref=e275]:
+                    - paragraph [ref=e276]: Stay in shell state
+                    - paragraph [ref=e277]: Dependency noted
+  - button "Open Next.js Dev Tools" [ref=e283] [cursor=pointer]:
+    - img [ref=e284]

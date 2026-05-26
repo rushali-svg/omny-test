@@ -36,6 +36,7 @@ Every artifact must include:
 | DSP-USERFLOW-001 | userflow | v1 | draft | unassigned | [userflow-v1-25-05-2026-dsp-onboarding-and-iteration.md](./userflows/userflow-v1-25-05-2026-dsp-onboarding-and-iteration.md) |
 | DSP-USECASE-EDGECASE-001 | usecase-edgecase | v1 | draft | unassigned | [usecase-edgecase-v1-25-05-2026-dsp-core-scenarios.md](./usecases-edgecases/usecase-edgecase-v1-25-05-2026-dsp-core-scenarios.md) |
 | DSP-DESIGN-ITER-001 | design-iteration | v1 | draft | unassigned | [design-iteration-v1-25-05-2026-dsp-prototype-direction.md](./design-iterations/design-iteration-v1-25-05-2026-dsp-prototype-direction.md) |
+| DSP-DESIGN-PLAN-001 | design-plan | v1 | draft | unassigned | [design-plan-v1-26-05-2026-dsp-prototype-iter-01.md](./design-iterations/design-plan-v1-26-05-2026-dsp-prototype-iter-01.md) |
 | DSP-FORMAT-REVIEW-001 | format-review | v1 | needs-format-decision | unassigned | [format-review-v1-25-05-2026-nonstandard-artifact-stub.md](./format-review/format-review-v1-25-05-2026-nonstandard-artifact-stub.md) |
 
 ## Non-Standard Artifact Flow
